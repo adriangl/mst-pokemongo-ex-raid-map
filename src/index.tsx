@@ -1,4 +1,3 @@
-import * as Raven from 'raven-js';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 import Map from './components/Map';
